@@ -127,7 +127,7 @@ See [`LICENSE`](LICENSE) for details.
 If you use this code, please cite:
 
 > Guoqing Zhang *et al.*,  
-> “Virtual-Work–Based Shape–Force Estimation in Polynomial Curvature Space for Continuum Robots,”  
+> “Integrated Shape–Force Estimation for Continuum Robots: A Virtual-Work and Polynomial-Curvature Framework,”  
 > *IEEE Robotics and Automation Letters (RAL)*, 2025.
 
 ---
